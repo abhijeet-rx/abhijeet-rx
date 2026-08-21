@@ -2,7 +2,7 @@
   <img src="assets/videoframe_4922.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhijeet Singh</h1>
+<h1 align="center">Hey there I'm Abhijeet Singh</h1>
 
 <h3 align="center">Full Stack Developer</h3>
 
