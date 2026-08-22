@@ -16,7 +16,7 @@ Building scalable applications, solving problems, and turning ideas into reliabl
 
 ## <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/side.jpg" width="280" alt="Developer Illustration"/>
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
 **Abhijeet Singh**, here — a final-year Computer Engineering student focused on full stack development.
 
