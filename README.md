@@ -116,7 +116,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/Dot-field-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeet-rx&repo=Dot-field-&theme=tokyonight&hide_border=false" />
+    <img src="dashboard.png" />
   </a>
 </p>
 
@@ -155,7 +155,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/smart-resume-screener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeet-rx&repo=smart-resume-screener&theme=tokyonight&hide_border=false" />
+    <img src="leaderboard.png" />
   </a>
 </p>
 
