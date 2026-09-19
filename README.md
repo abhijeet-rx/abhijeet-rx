@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer • Full Stack Developer • Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build+%3E+Break+%3E+Learn;%3E+Turning+Ideas+Into+Code;%3E+Code.+Debug.+Repeat.;%3E+Building+Systems+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build+%3E+Break+%3E+Learn;%3E+Tu[...]
 </p>
 
 <p align="center">
@@ -181,6 +181,60 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <p align="center">
   <b>AI / Machine Learning • Python • NLP • Resume Analysis</b>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☕ Fika</h3>
+
+<p align="center">
+  <a href="https://github.com/abhijeet-rx/Fika">
+    <img src="https://img.shields.io/badge/Fika-Coding%20Problem%20Sync%20Engine-181717?style=for-the-badge&logo=github" alt="Fika Project" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Chrome Extension for Automatic Code Sync</b>
+</p>
+
+<p>
+  Fika is a Manifest V3 Chrome extension that captures accepted submissions from <b>LeetCode</b> and <b>GeeksforGeeks</b> and syncs them directly into your GitHub repository with structured Markdown and code files.
+</p>
+
+<p>
+  <b>Highlights:</b>
+</p>
+
+<ul>
+  <li>Zero-click interception of accepted submission payloads</li>
+  <li>Automatic GitHub repository syncing with README generation</li>
+  <li>Duplicate prevention using SHA-256 file checks</li>
+  <li>React-powered analytics and extension dashboard</li>
+  <li>Real-time connection verification with GitHub PAT</li>
+</ul>
+
+<p align="center">
+  <b>Chrome Extension • Manifest V3 • React • TypeScript • GitHub API</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center" style="padding-top: 60px;">
+  <a href="https://github.com/abhijeet-rx/Fika">
+    <img src="https://img.shields.io/badge/View%20Project-Open%20on%20GitHub-0A0A0A?style=for-the-badge&logo=github" alt="Open Fika on GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Built to automate problem-solving workflows.</b>
 </p>
 
 </td>
