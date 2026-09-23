@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer • Full Stack Developer • Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build+%3E+Break+%3E+Learn;%3E+Tu[...]
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build+%3E+Break+%3E+Learn;%3E+Turn+Ideas+Into+Software" />
 </p>
 
 <p align="center">
@@ -105,6 +105,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <p align="center">
   <b>System Design • Distributed Systems • Scalable Backend Architecture • Cloud • DevOps</b>
 </p>
+
 ## <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
@@ -128,10 +129,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
   An India-first job intelligence platform that discovers jobs from multiple sources, analyzes candidate-job compatibility, tailors ATS-friendly resumes, and tracks the complete application funnel.
 </p>
 
-<p>
-  <b>Highlights:</b>
-</p>
-
+<p><b>Highlights:</b></p>
 <ul>
   <li>Multi-source job ingestion using IndianAPI Jobs, Jooble & Adzuna</li>
   <li>India-specific location normalization & filtering</li>
@@ -143,9 +141,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
   <li>Bucket4j API rate limiting</li>
 </ul>
 
-<p align="center">
-  <b>Java 21 • Spring Boot • React • PostgreSQL • Flyway • JPA • JWT • Docker</b>
-</p>
+<p align="center"><b>Java 21 • Spring Boot • React • PostgreSQL • Flyway • JPA • JWT • Docker</b></p>
 
 </td>
 
@@ -159,18 +155,13 @@ I care about writing software that is **reliable, maintainable, secure, and actu
   </a>
 </p>
 
-<p align="center">
-  <b>AI-Powered Resume Screening System</b>
-</p>
+<p align="center"><b>AI-Powered Resume Screening System</b></p>
 
 <p>
   An AI-powered resume screening platform designed to extract structured candidate information, evaluate candidate-job compatibility, and generate explainable screening results.
 </p>
 
-<p>
-  <b>Focus Areas:</b>
-</p>
-
+<p><b>Focus Areas:</b></p>
 <ul>
   <li>Resume information extraction</li>
   <li>Candidate-job matching</li>
@@ -179,9 +170,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
   <li>Automated resume analysis</li>
 </ul>
 
-<p align="center">
-  <b>AI / Machine Learning • Python • NLP • Resume Analysis</b>
-</p>
+<p align="center"><b>AI / Machine Learning • Python • NLP • Resume Analysis</b></p>
 
 </td>
 
@@ -199,18 +188,13 @@ I care about writing software that is **reliable, maintainable, secure, and actu
   </a>
 </p>
 
-<p align="center">
-  <b>Chrome Extension for Automatic Code Sync</b>
-</p>
+<p align="center"><b>Chrome Extension for Automatic Code Sync</b></p>
 
 <p>
-  Fika is a Manifest V3 Chrome extension that captures accepted submissions from <b>LeetCode</b> and <b>GeeksforGeeks</b> and syncs them directly into your GitHub repository with structured Markdown and code files.
+  Fika is a Manifest V3 Chrome extension that captures accepted submissions from <b>LeetCode</b> and <b>GeeksforGeeks</b> and syncs them directly into your GitHub repository with structured Markdown files.
 </p>
 
-<p>
-  <b>Highlights:</b>
-</p>
-
+<p><b>Highlights:</b></p>
 <ul>
   <li>Zero-click interception of accepted submission payloads</li>
   <li>Automatic GitHub repository syncing with README generation</li>
@@ -219,12 +203,36 @@ I care about writing software that is **reliable, maintainable, secure, and actu
   <li>Real-time connection verification with GitHub PAT</li>
 </ul>
 
-<p align="center">
-  <b>Chrome Extension • Manifest V3 • React • TypeScript • GitHub API</b>
-</p>
+<p align="center"><b>Chrome Extension • Manifest V3 • React • TypeScript • GitHub API</b></p>
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Adonis</h3>
+
+<p align="center">
+  <a href="https://github.com/abhijeet-rx/Adonis">
+    <img src="https://img.shields.io/badge/Adonis-AI%20Job%20Application%20Copilot-181717?style=for-the-badge&logo=github" alt="Adonis Project" />
+  </a>
+</p>
+
+<p align="center"><b>Autonomous AI Job Application Filler & ATS Resume Curator</b></p>
+
+<p>
+  Adonis is an AI-powered job application copilot that ingests a candidate profile, dynamically curates skills and resumes for each job description, and autofills job applications across platforms.
+</p>
+
+<p><b>Highlights:</b></p>
+<ul>
+  <li>Candidate profile ingestion and management</li>
+  <li>AI-assisted resume and skills curation</li>
+  <li>Job-specific ATS optimization</li>
+  <li>Automated job application form filling</li>
+  <li>Browser-based application workflow</li>
+</ul>
+
+<p align="center"><b>Python • JavaScript • HTML • CSS • AI • ATS Automation</b></p>
 
 </td>
 
@@ -244,9 +252,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 ## <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=abhijeet-rx&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
-
 </div>
 
 ---
@@ -262,34 +268,21 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 ## <h2 align="center">⌘ Commit Activity</h2>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph-dark.svg">
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph.svg">
-
-<img
- src="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph-dark.svg"
- alt="Pacman Contribution Graph"> </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
+</picture>
 
 ---
 
 ## <h2 align="center">⌘ Philosophy</h2>
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Developer Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
-<p align="center">
-  <i>"Build things worth being proud of."</i>
-</p>
+<p align="center"><i>"Build things worth being proud of."</i></p>
 
 ---
 
-<p align="center">
-  <b>Always learning. Always building.</b>
-</p>
+<p align="center"><b>Always learning. Always building.</b></p>
