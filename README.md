@@ -183,27 +183,27 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">☕ Fika</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/Fika">
-    <img src="https://img.shields.io/badge/Fika-Coding%20Problem%20Sync%20Engine-181717?style=for-the-badge&logo=github" alt="Fika Project" />
+  <a href="https://github.com/abhijeet-rx/fika">
+    <img src="fika.png" alt="Fika Dashboard" />
   </a>
 </p>
 
-<p align="center"><b>Chrome Extension for Automatic Code Sync</b></p>
+<p align="center"><b>Multi-Platform Competitive Programming Auto-Sync Extension</b></p>
 
 <p>
-  Fika is a Manifest V3 Chrome extension that captures accepted submissions from <b>LeetCode</b> and <b>GeeksforGeeks</b> and syncs them directly into your GitHub repository with structured Markdown files.
+  Fika is a Manifest V3 Chrome extension that watches <b>Codeforces, CodeChef, LeetCode, AtCoder, GeeksforGeeks, HackerRank, NeetCode & vJudge</b> for accepted submissions and automatically commits them to your GitHub repository.
 </p>
 
 <p><b>Highlights:</b></p>
 <ul>
-  <li>Zero-click interception of accepted submission payloads</li>
-  <li>Automatic GitHub repository syncing with README generation</li>
-  <li>Duplicate prevention using SHA-256 file checks</li>
-  <li>React-powered analytics and extension dashboard</li>
-  <li>Real-time connection verification with GitHub PAT</li>
+  <li>Zero-click automatic code sync across 8+ programming platforms</li>
+  <li>Custom directory trees organized by difficulty or contest ID</li>
+  <li>Offscreen audio chime feedback upon successful GitHub push</li>
+  <li>Glassmorphic options dashboard with streak counter & sync stats</li>
+  <li>Duplicate prevention, manual push runner & full retry queue</li>
 </ul>
 
-<p align="center"><b>Chrome Extension • Manifest V3 • React • TypeScript • GitHub API</b></p>
+<p align="center"><b>Chrome Extension • Manifest V3 • JavaScript • GitHub REST API • Web Audio</b></p>
 
 </td>
 
