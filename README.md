@@ -2,12 +2,12 @@
   <img src="assets/videoframe_4922.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hey there, I'm Abhijeet Singh 👋</h1>
+<h1 align="center">Hey there, I'm Abhijeet Singh</h1>
 
 <h3 align="center">Software Engineer • Full Stack Developer • Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build+%3E+Break+%3E+Learn;%3E+Turn+Ideas+Into+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build+%3E+Break+%3E+Learn;%3E+Tu[...]>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## <h2 align="center">🚀 About Me</h2>
+## <h2 align="center">About Me</h2>
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
@@ -36,7 +36,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-## <h2 align="center">🤝 Connect</h2>
+## <h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx">
@@ -54,33 +54,33 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-## <h2 align="center">💻 Tech Stack</h2>
+## <h2 align="center">Tech Stack</h2>
 
-### 👨‍💻 Languages
+### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
 </p>
 
-### 🗄️ Databases & Infrastructure
+### Databases & Infrastructure
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker" />
 </p>
 
-### 🛠️ Tools & Engineering
+### Tools & Engineering
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
@@ -92,7 +92,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-<h2 align="center">🚀 Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=redis,docker,aws,kafka,linux,nginx,githubactions" />
@@ -106,14 +106,14 @@ I care about writing software that is **reliable, maintainable, secure, and actu
   <b>System Design • Distributed Systems • Scalable Backend Architecture • Cloud • DevOps</b>
 </p>
 
-## <h2 align="center">🚀 Featured Projects</h2>
+## <h2 align="center">Featured Projects</h2>
 
 <table align="center">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ DOT Field</h3>
+<h3 align="center">DOT Field</h3>
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/Dot-field-">
@@ -147,7 +147,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 Smart Resume Screener</h3>
+<h3 align="center">Smart Resume Screener</h3>
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/smart-resume-screener">
@@ -180,7 +180,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <td width="50%" valign="top">
 
-<h3 align="center">☕ Fika</h3>
+<h3 align="center">Fika</h3>
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/fika">
@@ -191,7 +191,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <p align="center"><b>Multi-Platform Competitive Programming Auto-Sync Extension</b></p>
 
 <p>
-  Fika is a Manifest V3 Chrome extension that watches <b>Codeforces, CodeChef, LeetCode, AtCoder, GeeksforGeeks, HackerRank, NeetCode & vJudge</b> for accepted submissions and automatically commits them to your GitHub repository.
+  Fika is a Manifest V3 Chrome extension that watches <b>Codeforces, CodeChef, LeetCode, AtCoder, GeeksforGeeks, HackerRank, NeetCode & vJudge</b> for accepted submissions and automatically commits th[...]
 </p>
 
 <p><b>Highlights:</b></p>
@@ -209,7 +209,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ Adonis</h3>
+<h3 align="center">Adonis</h3>
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/Adonis">
@@ -220,7 +220,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <p align="center"><b>Autonomous AI Job Application Filler & ATS Resume Curator</b></p>
 
 <p>
-  Adonis is an AI-powered job application copilot that ingests a candidate profile, dynamically curates skills and resumes for each job description, and autofills job applications across platforms.
+  Adonis is an AI-driven assistant that automates job applications by generating tailored, ATS-optimized resumes and cover letters, mapping candidate profiles to job requirements, and auto-filling application forms across major job platforms while providing explainable recommendations and privacy-preserving profile handling.
 </p>
 
 <p><b>Highlights:</b></p>
@@ -241,7 +241,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-## <h2 align="center">🧠 Engineering Interests</h2>
+## <h2 align="center">Engineering Interests</h2>
 
 <p align="center">
   Backend Engineering • System Design • Distributed Systems • AI Engineering • Database Architecture • API Design • Scalable Applications
@@ -249,7 +249,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-## <h2 align="center">📊 GitHub Stats</h2>
+## <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=abhijeet-rx&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
@@ -257,7 +257,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-## <h2 align="center">📈 Activity Graph</h2>
+## <h2 align="center">Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph-dusky-theta.vercel.app/graph?username=abhijeet-rx&theme=github-compact" alt="Activity Graph"/>
@@ -265,7 +265,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-## <h2 align="center">⌘ Commit Activity</h2>
+## <h2 align="center">Commit Activity</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph-dark.svg">
@@ -275,7 +275,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ---
 
-## <h2 align="center">⌘ Philosophy</h2>
+## <h2 align="center">Philosophy</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
