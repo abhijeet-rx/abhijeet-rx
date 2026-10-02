@@ -213,7 +213,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/Adonis">
-    <img src="adonis.png" alt="Adonis Workflow Automation Platform" />
+    <img src="assets/adonis" alt="Adonis Workflow Automation Platform" />
   </a>
 </p>
 
