@@ -213,30 +213,30 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 <p align="center">
   <a href="https://github.com/abhijeet-rx/Adonis">
-    <img src="https://img.shields.io/badge/Adonis-AI%20Job%20Application%20Copilot-181717?style=for-the-badge&logo=github" alt="Adonis Project" />
+    <img src="adonis.png" alt="Adonis Workflow Automation Platform" />
   </a>
 </p>
 
-<p align="center"><b>Autonomous AI Job Application Filler & ATS Resume Curator</b></p>
+<p align="center"><b>Distributed Workflow Automation & AI Orchestration Engine</b></p>
 
 <p>
-  Adonis is an AI-driven assistant that automates job applications by generating tailored, ATS-optimized resumes and cover letters, mapping candidate profiles to job requirements, and auto-filling application forms through browser automation.
+  A production-grade distributed workflow automation platform featuring a visual DAG canvas, asynchronous task processing, event-driven scheduling, and multi-model AI orchestration with zero-vulnerability enterprise hardening.
 </p>
 
 <p><b>Highlights:</b></p>
 <ul>
-  <li>Candidate profile ingestion and management</li>
-  <li>AI-assisted resume and skills curation</li>
-  <li>Job-specific ATS optimization</li>
-  <li>Automated job application form filling</li>
-  <li>Browser-based application workflow</li>
+  <li>Visual DAG workflow builder with React Flow, custom nodes & animated connections</li>
+  <li>Distributed execution engine with Redis Streams, consumer groups & worker leasing</li>
+  <li>Event-driven triggers: Manual, Inbound Webhooks (deduplication) & Cron/Interval Scheduler</li>
+  <li>Multi-provider AI orchestration (OpenAI & Gemini) with prompt interpolation & structured JSON schema extraction</li>
+  <li>Stateless HMAC-SHA256 JWT security, SecretRedactor sanitization & production MongoDB 7.0 persistence</li>
+  <li>Hardened multi-stage Docker deployment, Nginx reverse proxy & 100% green CI/CD pipeline</li>
 </ul>
 
-<p align="center"><b>Python • JavaScript • HTML • CSS • AI • ATS Automation</b></p>
+<p align="center"><b>Java 21 • Spring Boot 3.5 • React 19 • TypeScript • Redis Streams • MongoDB • Docker • Nginx</b></p>
 
 </td>
 
-</tr>
 </table>
 
 ---
