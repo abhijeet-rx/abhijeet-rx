@@ -267,12 +267,17 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 ## <h2 align="center">Commit Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/abhijeet-rx/abhijeet-rx/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
-</picture>
+<div align="center">
 
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>abhijeet-rx@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Abhijeet's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
 ---
 
 ## <h2 align="center">Philosophy</h2>
