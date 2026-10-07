@@ -238,6 +238,8 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 </td>
 
 
+<tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">Zixie</h3>
@@ -267,6 +269,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <p align="center"><b>TypeScript • Node.js • Fastify • React 19 • Tailwind CSS • Graph Algorithms</b></p>
 
 </td>
+</tr>
 
 </table>
 
