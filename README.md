@@ -237,6 +237,37 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 
 </td>
 
+
+<td width="50%" valign="top">
+
+<h3 align="center">Zixie</h3>
+
+<p align="center">
+  <a href="https://github.com/abhijeet-rx/Zixie">
+    View Repository
+  </a>
+</p>
+
+<p align="center"><b>Code Plagiarism, Collusion & AI Detection Platform</b></p>
+
+<p>
+  An end-to-end code integrity platform that detects structural plagiarism, collusion rings, and AI-generated code in technical assessments using lexical analysis, fingerprinting, graph clustering, and AI stylometry.
+</p>
+
+<p><b>Highlights:</b></p>
+<ul>
+  <li>Identifier masking & lexical normalization to defeat variable-renaming obfuscation</li>
+  <li>Winnowing fingerprinting with Rabin-Karp hashing for structural similarity detection</li>
+  <li>RKR-GST string tiling for maximal non-overlapping code matches</li>
+  <li>Union-Find clustering to identify candidate collusion rings</li>
+  <li>AI stylometry & heuristic scoring for AI-generated code detection</li>
+  <li>Interactive split-screen diff and cohort analysis dashboard</li>
+</ul>
+
+<p align="center"><b>TypeScript • Node.js • Fastify • React 19 • Tailwind CSS • Graph Algorithms</b></p>
+
+</td>
+
 </table>
 
 ---
