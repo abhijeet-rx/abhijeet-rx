@@ -245,12 +245,12 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Zixie</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/Zixie">
-    View Repository
+  <a href="https://github.com/abhijeet-rx/zixie">
+    <img src="zixie.png" alt="Zixie Code Plagiarism and AI Detection Platform" />
   </a>
 </p>
 
-<p align="center"><b>Code Plagiarism, Collusion & AI Detection Platform</b></p>
+<p align="center"><b>Code Plagiarism, Collusion &amp; AI Detection Platform</b></p>
 
 <p>
   An end-to-end code integrity platform that detects structural plagiarism, collusion rings, and AI-generated code in technical assessments using lexical analysis, fingerprinting, graph clustering, and AI stylometry.
@@ -267,6 +267,36 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 </ul>
 
 <p align="center"><b>TypeScript • Node.js • Fastify • React 19 • Tailwind CSS • Graph Algorithms</b></p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Kenobi</h3>
+
+<p align="center">
+  <a href="https://github.com/abhijeet-rx/Kenobi">
+    <img src="kenobi.png" alt="Kenobi Acoustic Desk Surface Interaction Suite" />
+  </a>
+</p>
+
+<p align="center"><b>Acoustic Desk Surface Interaction Suite for Windows</b></p>
+
+<p>
+  Turns the empty desk space flanking a laptop into an interactive acoustic touch surface using laptop stereo microphones and real-time transient audio DSP without specialized sensors or wearables.
+</p>
+
+<p><b>Highlights:</b></p>
+<ul>
+  <li>Micro-vibration & acoustic transient sensing via built-in stereo microphones</li>
+  <li>Sub-millisecond energy ratio Left vs. Right spatial desk tap localization</li>
+  <li>Smart typing guard suppressing false triggers with low-level keyboard hooks</li>
+  <li>Dual-band spectral signature filter separating desk thumps from mechanical key clicks</li>
+  <li>Single and double-tap gestures mapped to media, productivity, mouse & macro triggers</li>
+  <li>High-DPI PyQt6 dark control center with real-time stereo VU meters & floating HUD</li>
+</ul>
+
+<p align="center"><b>Python 3.12 • PyQt6 • NumPy • SciPy • Audio DSP • Windows API (Win32)</b></p>
 
 </td>
 </tr>
