@@ -245,28 +245,29 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Zixie</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/zixie">
-    <img src="zixie.png" alt="Zixie Code Plagiarism and AI Detection Platform" />
+  <a href="https://github.com/abhijeet-rx/Zixie">
+    <img src="zixie.png" alt="Zixie — Code Integrity & AI Detection Platform" width="100%" />
   </a>
 </p>
 
 <p align="center"><b>Code Plagiarism, Collusion &amp; AI Detection Platform</b></p>
 
 <p>
-  An end-to-end code integrity platform that detects structural plagiarism, collusion rings, and AI-generated code in technical assessments using lexical analysis, fingerprinting, graph clustering, and AI stylometry.
+  An end-to-end full-stack platform for automated code integrity in technical assessments. Analyzes submission batches to surface structural plagiarism, collusion rings, and AI-written code — with an interactive review dashboard showing similarity distributions and side-by-side code diffs.
 </p>
 
 <p><b>Highlights:</b></p>
 <ul>
-  <li>Identifier masking & lexical normalization to defeat variable-renaming obfuscation</li>
-  <li>Winnowing fingerprinting with Rabin-Karp hashing for structural similarity detection</li>
-  <li>RKR-GST string tiling for maximal non-overlapping code matches</li>
-  <li>Union-Find clustering to identify candidate collusion rings</li>
-  <li>AI stylometry & heuristic scoring for AI-generated code detection</li>
-  <li>Interactive split-screen diff and cohort analysis dashboard</li>
+  <li>Batch submission analysis with per-pair similarity scoring across entire cohorts</li>
+  <li>Winnowing (MOSS-style) + RKR-GST string tiling for structural plagiarism detection</li>
+  <li>Identifier masking &amp; lexical normalization to defeat variable-renaming obfuscation</li>
+  <li>Union-Find graph clustering to surface multi-candidate collusion rings</li>
+  <li>AI Stylometry engine detecting comment density, canonical naming &amp; structured docstrings</li>
+  <li>Review dashboard with similarity histogram, flagged pair table &amp; split-screen code diff</li>
+  <li>JWT auth, MongoDB persistence, and scoped per-user report history</li>
 </ul>
 
-<p align="center"><b>TypeScript • Node.js • Fastify • React 19 • Tailwind CSS • Graph Algorithms</b></p>
+<p align="center"><b>TypeScript • Node.js • Fastify • React 19 • Tailwind CSS • MongoDB • JWT</b></p>
 
 </td>
 
