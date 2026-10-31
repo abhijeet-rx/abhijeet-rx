@@ -116,9 +116,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">DOT Field</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/Dot-field-">
-    <img src="dashboard.png" />
-  </a>
+  <video src="./assets/videos/dot-field.mp4" controls width="100%">Your browser does not support embedded videos. <a href="./assets/videos/dot-field.mp4">Watch DOT Field demo</a>.</video>
 </p>
 
 <p align="center">
@@ -150,9 +148,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Smart Resume Screener</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/smart-resume-screener">
-    <img src="leaderboard.png" />
-  </a>
+  <video src="./assets/videos/smart-resume-screener.mp4" controls width="100%">Your browser does not support embedded videos. <a href="./assets/videos/smart-resume-screener.mp4">Watch Smart Resume Screener demo</a>.</video>
 </p>
 
 <p align="center"><b>AI-Powered Resume Screening System</b></p>
@@ -183,9 +179,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Fika</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/fika">
-    <img src="fika.png" alt="Fika Dashboard" />
-  </a>
+  <video src="./assets/videos/fika.mp4" controls width="100%">Your browser does not support embedded videos. <a href="./assets/videos/fika.mp4">Watch Fika demo</a>.</video>
 </p>
 
 <p align="center"><b>Multi-Platform Competitive Programming Auto-Sync Extension</b></p>
@@ -212,9 +206,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Adonis</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/Adonis">
-    <img src="assets/adonis" alt="Adonis Workflow Automation Platform" />
-  </a>
+  <video src="./assets/videos/adonis.mp4" controls width="100%">Your browser does not support embedded videos. <a href="./assets/videos/adonis.mp4">Watch Adonis demo</a>.</video>
 </p>
 
 <p align="center"><b>Distributed Workflow Automation & AI Orchestration Engine</b></p>
@@ -245,9 +237,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Zixie</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/Zixie">
-    <img src="zixie.png" alt="Zixie — Code Integrity & AI Detection Platform" width="100%" />
-  </a>
+  <video src="./assets/videos/zixie.mp4" controls width="100%">Your browser does not support embedded videos. <a href="./assets/videos/zixie.mp4">Watch Zixie demo</a>.</video>
 </p>
 
 <p align="center"><b>Code Plagiarism, Collusion &amp; AI Detection Platform</b></p>
@@ -276,9 +266,7 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Kenobi</h3>
 
 <p align="center">
-  <a href="https://github.com/abhijeet-rx/Kenobi">
-    <img src="kenobi.png" alt="Kenobi Acoustic Desk Surface Interaction Suite" />
-  </a>
+  <video src="./assets/videos/kenobi.mp4" controls width="100%">Your browser does not support embedded videos. <a href="./assets/videos/kenobi.mp4">Watch Kenobi demo</a>.</video>
 </p>
 
 <p align="center"><b>Acoustic Desk Surface Interaction Suite for Windows</b></p>
