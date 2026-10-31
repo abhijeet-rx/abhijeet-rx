@@ -206,7 +206,9 @@ I care about writing software that is **reliable, maintainable, secure, and actu
 <h3 align="center">Adonis</h3>
 
 <p align="center">
-  <video src="./assets/videos/adonis.mp4" controls width="100%">Your browser does not support embedded videos. <a href="./assets/videos/adonis.mp4">Watch Adonis demo</a>.</video>
+  <a href="https://youtu.be/Cjd2Q4Xstqw" target="_blank">
+    <img src="https://img.youtube.com/vi/Cjd2Q4Xstqw/hqdefault.jpg" alt="Watch Adonis demo on YouTube" width="100%" />
+  </a>
 </p>
 
 <p align="center"><b>Distributed Workflow Automation & AI Orchestration Engine</b></p>
